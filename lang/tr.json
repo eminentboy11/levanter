@@ -9,6 +9,7 @@
     "instance_close": "[{0}] Bağlantı kesildi. 👋",
     "instance_restart": "[{0}] Yeniden başlatılıyor... 🔄",
     "reconnect": "[{0}] Yeniden bağlanıyorum... ({1}) 🔄",
+    "disconnect": "[{0}] {1} 🔌",
     "reconnect_after": "[{0}] 1 dakika sonra tekrar deneyeceğim. ☕",
     "waiting_internet": "[{0}] İnternet yok — bağlantının gelmesini bekliyorum... 🌐",
     "waiting_internet_still": "[{0}] Hâlâ çevrimdışıyım, biraz bekle... 🌐",

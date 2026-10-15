@@ -9,6 +9,7 @@
     "instance_close": "[{0}] Conexión cerrada. 👋",
     "instance_restart": "[{0}] Reiniciando instancia... 🔄",
     "reconnect": "[{0}] Reconectando... ({1}) 🔄",
+    "disconnect": "[{0}] {1} 🔌",
     "reconnect_after": "[{0}] Lo intento de nuevo en 1 minuto. ☕",
     "waiting_internet": "[{0}] Sin internet — esperando a que vuelva la conexión... 🌐",
     "waiting_internet_still": "[{0}] Aún sin conexión, un momento... 🌐",

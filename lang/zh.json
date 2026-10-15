@@ -9,6 +9,7 @@
     "instance_close": "[{0}] 正在下线，再见！ 👋",
     "instance_restart": "[{0}] 正在重启，马上回来！ 🔄",
     "reconnect": "[{0}] 连接断开，正在重试... ({1}) 🔄",
+    "disconnect": "[{0}] {1} 🔌",
     "reconnect_after": "[{0}] 稍等，休息一分钟后重试... ☕",
     "waiting_internet": "[{0}] 没有网络 — 正在等待连接恢复... 🌐",
     "waiting_internet_still": "[{0}] 仍然离线，请稍候... 🌐",
