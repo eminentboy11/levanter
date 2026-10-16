@@ -469,7 +469,7 @@
       "updated": "Bahsetme ayarları güncellendi."
     },
     "status": {
-      "usage": "Kullanım: status on | off | no-dl | except-view <jid,...> | only-view <jid,...>",
+      "usage": "Kullanım: status on | off | no-dl | hide-view | except-view <jid,...> | only-view <jid,...>",
       "desc": "WhatsApp durumlarının otomatik olarak görüntülenmesini yönet"
     },
     "call": {

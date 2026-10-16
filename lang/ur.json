@@ -469,7 +469,7 @@
       "updated": "*_mention ki settings update kar di gayi hain._*"
     },
     "status": {
-      "usage": "*Istmaal:* _status on | off | no-dl | except-view <jid,...> | only-view <jid,...>_",
+      "usage": "*Istmaal:* _status on | off | no-dl | hide-view | except-view <jid,...> | only-view <jid,...>_",
       "desc": "_WhatsApp Status dekhnay ka intizami tor tareeqa banayein._"
     },
     "call": {

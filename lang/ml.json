@@ -469,7 +469,7 @@
       "updated": "Mention settings update aayi."
     },
     "status": {
-      "usage": "Usage: status on | off | no-dl | except-view <jid,...> | only-view <jid,...>",
+      "usage": "Usage: status on | off | no-dl | hide-view | except-view <jid,...> | only-view <jid,...>",
       "desc": "WhatsApp status auto aayi kaanaan."
     },
     "call": {

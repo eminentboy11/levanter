@@ -469,7 +469,7 @@
       "updated": "Настройки упоминания обновлены."
     },
     "status": {
-      "usage": "Использование: status on | off | no-dl | except-view <jid,...> | only-view <jid,...>",
+      "usage": "Использование: status on | off | no-dl | hide-view | except-view <jid,...> | only-view <jid,...>",
       "desc": "Автоматически управлять просмотром статусов WhatsApp."
     },
     "call": {

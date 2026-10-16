@@ -469,7 +469,7 @@
       "updated": "Mention settings update ho gayi."
     },
     "status": {
-      "usage": "Usage: status on | off | no-dl | except-view <jid,...> | only-view <jid,...>",
+      "usage": "Usage: status on | off | no-dl | hide-view | except-view <jid,...> | only-view <jid,...>",
       "desc": "WhatsApp statuses ko automatically manage karo."
     },
     "call": {

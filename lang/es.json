@@ -469,7 +469,7 @@
       "updated": "Preferencias de Mencion Actualizados."
     },
     "status": {
-      "usage": "Como Utilizar: `status` on | off | no-dl | except-view <jid,...> | only-view <jid,...>",
+      "usage": "Como Utilizar: `status` on | off | no-dl | hide-view | except-view <jid,...> | only-view <jid,...>",
       "desc": "Gestion de Estados de WhatsApp."
     },
     "call": {

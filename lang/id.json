@@ -469,7 +469,7 @@
       "updated": "Pengaturan mention diperbarui."
     },
     "status": {
-      "usage": "Cara Pakai: status on | off | no-dl | except-view <jid,...> | only-view <jid,...>",
+      "usage": "Cara Pakai: status on | off | no-dl | hide-view | except-view <jid,...> | only-view <jid,...>",
       "desc": "Kelola secara otomatis pembacaan status WhatsApp."
     },
     "call": {

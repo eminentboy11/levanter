@@ -469,7 +469,7 @@
       "updated": "মেনশন সেটিংস আপডেট করা হয়েছে।"
     },
     "status": {
-      "usage": "ব্যবহার: status on | off | no-dl | except-view <jid,...> | only-view <jid,...>",
+      "usage": "ব্যবহার: status on | off | no-dl | hide-view | except-view <jid,...> | only-view <jid,...>",
       "desc": "WhatsApp স্ট্যাটাস অটোমেটিকভাবে ম্যানেজ করুন।"
     },
     "call": {

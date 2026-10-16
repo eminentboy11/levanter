@@ -482,7 +482,7 @@
       "updated": "提及设置已更新。"
     },
     "status": {
-      "usage": "使用方法：status on | off | no-dl | except-view <jid,...> | only-view <jid,...>",
+      "usage": "使用方法：status on | off | no-dl | hide-view | except-view <jid,...> | only-view <jid,...>",
       "desc": "自动管理 WhatsApp 状态的查看。"
     },
     "call": {
